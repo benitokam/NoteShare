@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <dimen name="icon">35dp</dimen>
+     <dimen name="textPrincipale">40dp</dimen>
+     <dimen name="radius">6dp</dimen>
+     <dimen name="textSceondaire">20dp</dimen>
+
+</resources>

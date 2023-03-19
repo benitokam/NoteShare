@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">NoteShare</string>
+
+    <string name="mes">My</string>
+    <string name="notes">Notes</string>
+    <string name="important">Important</string>
+    <string name="titre">Title</string>
+    <string name="contenu">Content</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="compte">Account Creation</string>
+    <string name="recherche">Search</string>
+    <string name="collaboration">Collaboration</string>
+    <string name="mots_chercher">Search for</string>
+    <string name="email">email</string>
+    <string name="mots_de_passe">Password</string>
+    <string name="confirme_ton_mots_de_passe">Confirm your Password</string>
+    <string name="creer_un_compte">Create an Account</string>
+    <string name="connectez_vous">Log in</string>
+
+    <string name="se_connectez">Log in</string>
+    <string name="nouveau_compte">New Account</string>
+
+
+    <string name="document_pas_enregistrer">The document has no title</string>
+    <string name="Enregistement_reussie">Successful registration</string>
+    <string name="Aucun_element">No element found</string>
+    <string name="supprimer">Delete</string>
+    <string name="Partager">Share</string>
+    <string name="pas_connect">You are not connected</string>
+    <string name="Ajout_reussi">Addition successful</string>
+
+</resources>
